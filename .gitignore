@@ -1,0 +1,5 @@
+bin
+obj
+.vs
+types.ts
+reference.json
